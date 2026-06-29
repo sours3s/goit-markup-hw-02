@@ -43,6 +43,4 @@ goit-markup-hw-02/
 
 ## Live demo
 
-🔗 https://USERNAME.github.io/goit-markup-hw-02/
-
-> Замініть `USERNAME` на свій логін GitHub після налаштування GitHub Pages.
+🔗 https://sours3s.github.io/goit-markup-hw-02/
