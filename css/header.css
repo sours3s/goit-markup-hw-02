@@ -2,43 +2,21 @@
    Header
    ========================= */
 
-.header {
-  border-bottom: 1px solid #e7e9fc;
-}
-
-.header-container {
-  display: flex;
-  align-items: center;
-}
-
 .logo {
-  margin-right: 76px;
-  padding-top: 24px;
-  padding-bottom: 24px;
-
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
-}
-
-.logo-accent {
   color: #4d5ae5;
 }
 
-.nav-list {
-  display: flex;
-  gap: 40px;
+.logo-accent {
+  color: #2e2f42;
 }
 
 .nav-link {
-  display: block;
-  padding-top: 24px;
-  padding-bottom: 24px;
-
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -52,12 +30,7 @@
 }
 
 .contacts {
-  margin-left: auto;
-}
-
-.contacts-list {
-  display: flex;
-  gap: 40px;
+  font-style: normal;
 }
 
 .contacts-link {
